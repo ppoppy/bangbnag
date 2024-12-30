@@ -1,0 +1,745 @@
+.i-phone-13-14-1,
+.i-phone-13-14-1 * {
+  box-sizing: border-box;
+}
+.i-phone-13-14-1 {
+  background: #ffffff;
+  border-radius: 12px;
+  height: 956px;
+  position: relative;
+}
+.frame-1 {
+  width: 440px;
+  height: 949px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 440px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.header {
+  padding: 0px 0px 16px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-6 {
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2 {
+  flex-shrink: 0;
+  width: 93px;
+  height: 60px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 7px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.search {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.menu {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-4 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div2 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  padding: 28px 29px 28px 29px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 243px;
+  position: relative;
+}
+.frame-8 {
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 218px;
+  position: relative;
+}
+.div3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PretendardVariable-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2025-03-29-2025-03-31 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-23 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.div5 {
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 44px;
+  row-gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-9 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  position: relative;
+}
+.flower {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 32px;
+  position: relative;
+}
+.flower-cherry-blossom {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: hidden;
+}
+.image {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-10 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  position: relative;
+}
+.flower2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+}
+.image2 {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.frame-13 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  position: relative;
+}
+.hibiscus {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: hidden;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  position: relative;
+}
+.sunflower {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: hidden;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  position: relative;
+}
+.flower3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.frame-15 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  position: relative;
+}
+.frame-16 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  position: relative;
+}
+.ginger-01-2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  position: relative;
+}
+.flower4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  position: relative;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  position: relative;
+}
+.flower5 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.four-leaf-clover {
+  flex: 1;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.div7 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 408px;
+  position: relative;
+}
+.frame-19 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.hot {
+  color: #000000;
+  text-align: left;
+  font-family: "PretendardVariable-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mz {
+  color: #848484;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-20 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.div8 {
+  background: #5636ca;
+  border-radius: 65px;
+  border-style: solid;
+  border-color: #5636ca;
+  border-width: 1px;
+  padding: 8px 24px 8px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.div9 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div10 {
+  border-radius: 65px;
+  border-style: solid;
+  border-color: #5636ca;
+  border-width: 1px;
+  padding: 8px 24px 8px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.div11 {
+  color: #5636ca;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-110 {
+  flex-shrink: 0;
+  width: 408px;
+  height: 263px;
+  position: relative;
+  overflow-x: auto;
+}
+.card {
+  background: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 199px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-1 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 20px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 128px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-72 {
+  padding: 0px 0px 16px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 186px;
+  position: relative;
+}
+.div12 {
+  color: #000000;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2024-06-25-2024-07-14 {
+  color: #000000;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div13 {
+  color: #000000;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.card2 {
+  background: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 199px;
+  position: absolute;
+  left: 215px;
+  top: 0px;
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.25);
+}
+.card3 {
+  background: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 199px;
+  position: absolute;
+  left: 430px;
+  top: 0px;
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-21 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 408px;
+  position: relative;
+}
+.div14 {
+  color: #000000;
+  text-align: left;
+  font-family: "PretendardVariable-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div15 {
+  color: #848484;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-111 {
+  flex-shrink: 0;
+  width: 570px;
+  height: 263px;
+  position: relative;
+}
+.card4 {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  border-radius: 20px;
+  width: 200px;
+  height: 240px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-12 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 20px;
+  width: 200px;
+  height: 240px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.frame-73 {
+  padding: 0px 0px 32px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 361px;
+  position: absolute;
+  left: 8px;
+  top: 124px;
+}
+._2024-06-25-2024-07-142 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div16 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PretendardVariable-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.card5 {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  border-radius: 20px;
+  width: 200px;
+  height: 240px;
+  position: absolute;
+  left: 215px;
+  top: 0px;
+}
+.card6 {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  border-radius: 20px;
+  width: 200px;
+  height: 240px;
+  position: absolute;
+  left: 430px;
+  top: 0px;
+}

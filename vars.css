@@ -1,0 +1,27 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  /* Fonts */
+  --pre-bold-font-family: PretendardVariable-Bold, sans-serif;
+  --pre-bold-font-size: 48px;
+  --pre-bold-line-height: 130%;
+  --pre-bold-font-weight: 700;
+  --pre-bold-font-style: normal;
+  --pre-semibold-font-family: PretendardVariable-SemiBold, sans-serif;
+  --pre-semibold-font-size: 44px;
+  --pre-semibold-line-height: 130%;
+  --pre-semibold-font-weight: 600;
+  --pre-semibold-font-style: normal;
+  --pre-regular-font-family: PretendardVariable-Regular, sans-serif;
+  --pre-regular-font-size: 40px;
+  --pre-regular-line-height: 130%;
+  --pre-regular-font-weight: 400;
+  --pre-regular-font-style: normal;
+  --pre-regular-34px-font-family: PretendardVariable-Regular, sans-serif;
+  --pre-regular-34px-font-size: 34px;
+  --pre-regular-34px-line-height: 130%;
+  --pre-regular-34px-font-weight: 400;
+  --pre-regular-34px-font-style: normal;
+
+  /* Effects */
+}
